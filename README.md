@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Nishan Rana
 
-<!--
-**codebynishan/codebynishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc IT student | 🧠 Tech Explorer | 📊 Aspiring Data Scientist
 
-Here are some ideas to get you started:
+I'm passionate about learning new technologies, especially in the field of **Data Science**. I enjoy working with data, building projects, and exploring how technology can solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm Currently Learning:
+- Python for Data Science
+- Data analysis with Pandas & NumPy
+- Data visualization using Matplotlib & Seaborn
+- Machine Learning basics
+
+---
+
+### 🌱 Goals:
+- Complete Python with Data Science
+- Build mini-projects based on real datasets
+- Contribute to open source
+
+---
+
+### 📫 Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/nishan-rana-110a93341/)  
+- [Email](mailto:mail.nishanrana@gmail.com)
+
+---
+
+> “Stay curious, keep learning, and never stop building.” 🚀
+
